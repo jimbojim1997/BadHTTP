@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{08BB5B41
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadHttp.Sandbox", "BadHttp.Sandbox\BadHttp.Sandbox.csproj", "{42B114A5-51CA-4363-9F6E-CD84401DABEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadHttp.Tests", "BadHttp.Tests\BadHttp.Tests.csproj", "{F8096987-6F3D-4F70-8376-549C788B2B75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{23DF88D1-0C1C-4A0C-95F9-1ED82DDED498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23DF88D1-0C1C-4A0C-95F9-1ED82DDED498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23DF88D1-0C1C-4A0C-95F9-1ED82DDED498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B114A5-51CA-4363-9F6E-CD84401DABEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B114A5-51CA-4363-9F6E-CD84401DABEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B114A5-51CA-4363-9F6E-CD84401DABEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B114A5-51CA-4363-9F6E-CD84401DABEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8096987-6F3D-4F70-8376-549C788B2B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8096987-6F3D-4F70-8376-549C788B2B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8096987-6F3D-4F70-8376-549C788B2B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8096987-6F3D-4F70-8376-549C788B2B75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
