@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>BadHttp.Server</RootNamespace>
+    <AssemblyName>BadHttp.Server</AssemblyName>
+    <Description>A HTTP server implementation of questionable quality. This project is a learning exercise with no expectation of being used in a production environment.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/jimbojim1997/BadHTTP</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BadHttp.Common\BadHttp.Common.csproj" />
+  </ItemGroup>
+
+</Project>

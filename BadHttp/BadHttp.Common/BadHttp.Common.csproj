@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>BadHttp.Common</AssemblyName>
+    <RootNamespace>BadHttp.Common</RootNamespace>
+    <Description>Shared functionality for a HTTP client and server implementation of questionable quality. This project is a learning exercise with no expectation of being used in a production environment.</Description>
+    <RepositoryUrl>https://github.com/jimbojim1997/BadHTTP</RepositoryUrl>
+    <Authors />
+    <Company />
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
